@@ -1,9 +1,9 @@
-package HomeWork23_11;
+package HomeWork27_11;
 /*
 Записать условие, которое является истинным, когда точка с координатами (х, у)
 попадает в заштрихованные участки плоскости, включая их границы (рис. 3.1).
  */
-public class Task3_321 {
+public class Task3_32 {
     public static void main(String[] args) {
         double x=2, y=1.5;
         //a
