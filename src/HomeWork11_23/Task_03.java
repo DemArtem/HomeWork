@@ -1,4 +1,4 @@
-package HomeWork23_11_23;
+package HomeWork11_23;
 
 public class Task_03 {
     public static void main(String[] args) {
