@@ -35,7 +35,7 @@ public class Task5 {
             System.out.println("Знак зодиака: Рак");
         else if ((month ==  7 && day >= 23 && day <= 31) || (month ==  8 && day >= 1 && day <= 22))
             System.out.println("Знак зодиака: Лев");
-        else if ((month ==  8 && day >= 23 && day <= 31) || (month ==  9 && day >= 1 && day <= 22))
+        else        if ((month ==  8 && day >= 23 && day <= 31) || (month ==  9 && day >= 1 && day <= 22))
             System.out.println("Знак зодиака: Дева");
         else if ((month ==  9 && day >= 23 && day <= 30) || (month == 10 && day >= 1 && day <= 22))
             System.out.println("Знак зодиака: Весы");

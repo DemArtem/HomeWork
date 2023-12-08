@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1989325-4011-446f-afb8-dd5fcaef709e" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork12_08/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork12_08/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork12_08/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_11_23/Task_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork11_23/Task_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_11_23/Task_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork11_23/Task_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_11_23/Task_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork11_23/Task_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_11_23/Task_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork11_23/Task_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_11_27/Task3_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork11_27/Task3_32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_11_27/Task3_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork11_27/Task3_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_11_27/Task3_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork11_27/Task3_34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_12_06/Task4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork12_06/Task4_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_12_06/Task4_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork12_06/Task4_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_12_06/Task4_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork12_06/Task4_31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_12_06/Task4_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork12_06/Task4_34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork23_12_06/Task4_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork12_06/Task4_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork12_08/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork12_08/Task5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +41,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task5">
-    <configuration name="Task3_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork11_27.Task3_32" />
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork12_08.Task1" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork11_27.*" />
+          <option name="PATTERN" value="HomeWork12_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4_34" />
         <item itemvalue="Application.Task4_31" />
-        <item itemvalue="Application.Task3_32" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701819905366</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1701989106248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701989106248</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
