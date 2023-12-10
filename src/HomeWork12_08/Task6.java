@@ -1,7 +1,5 @@
 package HomeWork12_08;
-
 import java.util.Scanner;
-
 /*
 Задание 6
 Определить количество дней в году, который вводит
