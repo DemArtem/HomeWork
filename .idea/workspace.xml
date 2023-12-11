@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1989325-4011-446f-afb8-dd5fcaef709e" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork12_08/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork12_08/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork12_08/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork12_12/Task5_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork12_12/Task5_47.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork12_08/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork12_08/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork12_08/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork12_08/Task6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,33 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task4">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork12_08.Task1" />
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork12_08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork12_08.Task3" />
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork12_08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task5_40">
     <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork12_08.Task4" />
       <module name="HomeWork" />
@@ -97,6 +68,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task5_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork12_12.Task5_40" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork12_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5_47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork12_12.Task5_47" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork12_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork12_08.Task6" />
       <module name="HomeWork" />
@@ -112,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task5_40" />
+        <item itemvalue="Application.Task5_47" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702062344393</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test">
+      <option name="closed" value="true" />
+      <created>1702197611041</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702197611041</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
