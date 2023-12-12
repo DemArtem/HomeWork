@@ -1,7 +1,5 @@
 package HomeWork12_12;
-
 import java.util.Scanner;
-
 /*
 5.40. Даны натуральное число n и вещественные числа
 а1, а2 ,а3, ...,аn
@@ -15,7 +13,7 @@ public class Task5_40 {
 
         System.out.println("Введите вещественные числа a1, a2, ..., an:");
         double sum = 0.;
-        for (int i = 0; i < n; i++) {
+        for (double i = 0; i < n; i++) {
             double number = scanner.nextDouble();
             sum += number;
         }
