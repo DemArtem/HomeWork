@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1989325-4011-446f-afb8-dd5fcaef709e" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/Examples/TablOfMulty.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/HappyBirthday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/HappyBirthday.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,17 +51,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.TablOfMulty">
-    <configuration name="TablOfMulty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.TablOfMulty" />
+}</component>
+  <component name="RunManager" selected="Application.HappyBirthday">
+    <configuration name="HappyBirthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.HappyBirthday" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork12_12.Task5_40" />
+    <configuration name="TablOfMulty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.TablOfMulty" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork12_12.*" />
+          <option name="PATTERN" value="Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HappyBirthday" />
         <item itemvalue="Application.TablOfMulty" />
         <item itemvalue="Application.Task5_65" />
         <item itemvalue="Application.Task5_57" />
         <item itemvalue="Application.Task5_47" />
-        <item itemvalue="Application.Task5_40" />
       </list>
     </recent_temporary>
   </component>
