@@ -8,7 +8,7 @@ public class HappyBirthday {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите год рождения: ");
         int age = scanner.nextInt();
-        System.out.print("Где плазднуем? (Дом - 1 или Кафе - 2) ");
+        System.out.print("Где празднуем? (Дом - 1 или Кафе - 2) ");
         boolean place = scanner.hasNext();
 
         int money100 = 100;
@@ -21,11 +21,11 @@ public class HappyBirthday {
 
         if ((years % 10 == 0 || years == 18) && house) {
             System.out.println("Возраст: " + years + " - Юбилей - дарим " + money200+ " руб.");
-        } else if((years % 10 == 0 || years == 18) && cafe) {
+        } else if((years % 10 == 0 || years == 18) && cafe) { // считает неправильно
             System.out.println("Возраст: " + years + " - Юбилей - дарим " + money250+ " руб.");
         } else if((years % 10 != 0 || years != 18) && house) {
             System.out.println("Возраст: " + years + " - Дарим " + money100+ " руб.");
-        } else if((years % 10 != 0 || years != 18) && cafe) {
+        } else if((years % 10 != 0 || years != 18) && cafe) { // считает неправильно
             System.out.println("Возраст: " + years + " - Дарим " + money150 + " руб.");
         } else {
             System.out.println("Вы что-то не то ввели");
