@@ -9,7 +9,6 @@
       <change afterPath="$PROJECT_DIR$/src/HomeWork12_26/Task5_86.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/HomeWork12_26/Task6_34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/HappyBirthday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/HappyBirthday.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +60,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task5_86">
-    <configuration name="HappyBirthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.HappyBirthday" />
+  <component name="RunManager" selected="Application.Task6_34">
+    <configuration name="TablOfMulty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.TablOfMulty" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task5_86" />
         <item itemvalue="Application.Task6_34" />
+        <item itemvalue="Application.Task5_86" />
         <item itemvalue="Application.Task5_75" />
+        <item itemvalue="Application.TablOfMulty" />
         <item itemvalue="Application.Task5_65" />
-        <item itemvalue="Application.HappyBirthday" />
       </list>
     </recent_temporary>
   </component>
@@ -218,15 +217,7 @@
       <option name="project" value="LOCAL" />
       <updated>1702415550342</updated>
     </task>
-    <task id="LOCAL-00010" summary="test">
-      <option name="closed" value="true" />
-      <created>1702811410082</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1702811410082</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
