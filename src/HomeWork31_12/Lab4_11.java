@@ -4,10 +4,9 @@ public class Lab4_11 {
     public static void main(String[] args) {
         int[] arr={2,7,3,11,3,7,2};
 
-        System.out.println(isPrime(13));
-        System.out.println(allArePrime(arr));
-        System.out.println(isSymmetric(arr));
-        System.out.println(allArePrime(arr) && isSymmetric(arr));
+        System.out.println("Число простое: " + isPrime(7));
+        System.out.println("Все числа простые: " + allArePrime(arr));
+        System.out.println("Последовательность чисел симметрична: " + isSymmetric(arr));
     }
     //проверка на простое число
     static boolean isPrime(int n){
@@ -25,6 +24,7 @@ public class Lab4_11 {
         }
         return true;
     }
+
     //проверка на симметрию
     static boolean isSymmetric(int[] arr){
         for (int i = 0; i < arr.length/2; i++) {
