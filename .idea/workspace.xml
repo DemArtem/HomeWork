@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1989325-4011-446f-afb8-dd5fcaef709e" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork31_12/Lab4_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork31_12/Lab4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork31_12/Lab4_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork31_12/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork31_12/Examples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +73,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork31_12.Lab2_1" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork31_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab2_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork31_12.Lab2_11" />
       <module name="HomeWork" />
@@ -85,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab2_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork31_12.Lab2_9" />
+    <configuration name="Lab4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork31_12.Lab4_1" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
@@ -111,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab4_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork31_12.Lab4_7" />
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork31_12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Lab4_4" />
+        <item itemvalue="Application.Lab2_1" />
+        <item itemvalue="Application.Lab4_1" />
         <item itemvalue="Application.Examples" />
         <item itemvalue="Application.Lab2_11" />
-        <item itemvalue="Application.Lab2_9" />
-        <item itemvalue="Application.Lab4_7" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704536752517</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="test">
+      <option name="closed" value="true" />
+      <created>1704581227199</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704581227199</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
